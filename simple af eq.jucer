@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <JUCERPROJECT id="wNzoxD" name="simple af eq" projectType="audioplug" useAppConfig="0"
-              addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1">
+              addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" companyWebsite="www.reksix.com"
+              pluginManufacturer="reksix" aaxIdentifier="com.reksix.simpleafeq"
+              bundleIdentifier="com.reksix.simpleafeq">
   <MAINGROUP id="xlrT5W" name="simple af eq">
     <GROUP id="{9BB04378-8F03-561E-755F-E70820997D41}" name="Source">
       <FILE id="E4yBFH" name="PluginProcessor.cpp" compile="1" resource="0"
